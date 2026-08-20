@@ -34,7 +34,7 @@ def scrape_website(url: str) -> str:
         for script in soup(["script", "style"]):
             script.extract()
             
-        text = soup.get_text(separator=' ', strip=True)
+        text = soup.get_text(separator=' ', strip=True) 
         return text[:3000] # Return first 3000 chars for LLM analysis
     except Exception as e:
         print(f"[!] Scraping failed: {e}")
