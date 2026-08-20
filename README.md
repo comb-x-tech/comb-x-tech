@@ -5,7 +5,7 @@
   
   **COMB X .tech** partners with ambitious enterprises to eliminate manual labor, reduce overhead costs, and scale operations through bespoke technology.
   
-  [Website](https://combx.tech) • [Contact Us](mailto:info@combx.tech) • [LinkedIn](https://www.linkedin.com/company/comb-x-tech)
+  [Website](https://combx.tech) • [Contact Us](mailto:info@combx.tech) • [LinkedIn](https://www.linkedin.com/in/comb-x-tech)
 </div>
 
 ---
